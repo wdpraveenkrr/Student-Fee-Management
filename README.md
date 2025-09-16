@@ -29,7 +29,10 @@ Student Panel
 * Summarized reports for quick insights.
 
 ------------------------------------------------------------
-Checkout for live demo :- frontend = https://prince-institution.onrender.com/
+* Checkout for live demo :-
+* Frontend = https://prince-institution.onrender.com/
+* User-Email : castleparadisewonderland@gmail.com
+* password : 123
 -----------------------------------------------------------------
 
 ![Login](https://github.com/user-attachments/assets/7bdc15f6-7c17-4c5a-a19b-0db525d72d2e)
