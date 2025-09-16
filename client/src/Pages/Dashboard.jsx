@@ -44,7 +44,7 @@ const Dashboard = () => {
 
      useEffect(() => {
       // Fetch courses when component loads
-      Axios.get("http://localhost:4000/api/payment/list") // 
+      Axios.get(backendUrl +"/api/payment/list") // 
         .then((response) => {
           setPayment(response.data.data); //
         })
