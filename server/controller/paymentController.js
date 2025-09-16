@@ -34,7 +34,7 @@ const addPayment = async (req, res) => {
             payment_method_types: ["card"],
             mode: "payment",
             line_items: line_items,            
-            success_url: `https://prince-institution.onrender.com//success?success=true&order=${newPayments._id}`,            
+            success_url: `https://prince-institution.onrender.com/success?success=true&order=${newPayments._id}`,            
             cancel_url: `https://prince-institution.onrender.com/success/verify?success=false&order=${newPayments._id}`,         
         })           
         
