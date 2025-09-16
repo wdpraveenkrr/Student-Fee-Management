@@ -26,7 +26,7 @@ app.use(express.urlencoded({ limit: "10mb", extended: true }));
 app.use(cookieParser())
 
 app.use(cors({
-    origin: "" ,  // allow only this origin
+    origin: ["https://prince-institution.onrender.com/", "https://prince-institution-admin.onrender.com","https://api.web3forms.com/submit"] ,  // allow only this origin
     credentials: true                  // allow credentials (cookies, headers)
 }));
 
