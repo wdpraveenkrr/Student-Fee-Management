@@ -46,6 +46,7 @@ const Login = () => {
           withCredentials: true,        // always send cookies/session
           headers: {
             "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "https://prince-institution.onrender.com"
           },
         });
 
