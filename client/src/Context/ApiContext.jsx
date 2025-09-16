@@ -6,7 +6,7 @@ export const ApiProvider =(props)=>{
     
 
 
-    const backendUrl = 'http://localhost:4000'
+    const backendUrl = 'https://student-fee-management-bblb.onrender.com'
 
     const value={ backendUrl }
 
