@@ -25,10 +25,11 @@ app.use(express.json({ limit: "10mb" }));
 app.use(express.urlencoded({ limit: "10mb", extended: true }));
 app.use(cookieParser())
 
-app.use(cors({
-    origin: ["https://prince-institution.onrender.com/", "https://prince-institution-admin.onrender.com","https://api.web3forms.com/submit"] ,  // allow only this origin
-    credentials: true                  // allow credentials (cookies, headers)
-}));
+const corsOptions = {
+  origin: /\.onrender\.com$/,
+  methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+ credentials: true  };
+app.use(cors(corsOptions));
 
 
 // db connection
