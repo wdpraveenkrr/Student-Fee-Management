@@ -32,7 +32,10 @@ Student Panel
 
 Checkout for live demo :-
       frontend = https://prince-institution.onrender.com/
+-----------------------------------------------------------------
 
-      <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b6e44fe-cdee-4e82-b46e-231314fa00bc" />
+Login Page :
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b6e44fe-cdee-4e82-b46e-231314fa00bc" />
+      
 
 
