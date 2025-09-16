@@ -1,0 +1,180 @@
+
+Python Programming
+15000
+3 months
+_____________________________________________________
+This course introduces learners to Python, one of the most popular and versatile programming languages used in software development, data science, web development, and automation. The course begins with the basics of programming concepts and Python syntax, then progresses to more advanced topics such as object-oriented programming, file handling, libraries, and frameworks.
+
+Through hands-on coding exercises, real-world projects, and problem-solving activities, participants will build the skills needed to write efficient, reusable, and well-structured Python programs. By the end of the course, learners will have a strong foundation in Python and be prepared to apply it in areas like web development, data analysis, machine learning, and automation scripting.
+__________________________________________________
+Python syntax and programming fundamentals
+
+Data types, variables, operators, and expressions
+
+Control structures (if, loops, functions)
+
+Collections (lists, tuples, sets, dictionaries)
+
+File handling and exception handling
+
+Object-Oriented Programming (classes and objects)
+
+Working with popular libraries (NumPy, Pandas, Matplotlib)
+
+Basics of web development with Flask/Django (optional)
+
+Introduction to data science and automation with Python
+=====================================================================
+
+MERN Stack Development
+35000
+9 months
+_________________________________________________________________________
+
+The MERN Stack Development course is designed to equip learners with the skills required to build full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Starting from the fundamentals of web technologies, the course gradually covers backend development, RESTful APIs, frontend UI design, and database management, enabling participants to develop and deploy real-world applications.
+
+Through hands-on projects and practical assignments, learners will gain expertise in creating responsive user interfaces, handling server-side logic, integrating databases, and managing state effectively. By the end of the course, participants will have the ability to design, develop, and deploy end-to-end applications using the MERN stack.
+_________________________________________________________________________________
+
+Introduction to full-stack web development
+
+JavaScript ES6+ fundamentals
+
+Backend development with Node.js and Express.js
+
+REST API design and implementation
+
+Frontend development with React.js (components, hooks, routing, state management)
+
+Database design & operations with MongoDB
+
+User authentication & authorization (JWT, bcrypt)
+
+Connecting frontend and backend (API integration)
+
+File uploads & third-party API integration
+
+Deployment on cloud platforms (Heroku, Vercel, Render, AWS, etc.)
+
+=====================================================================
+
+C Programming
+10000
+2 months
+______________________________________________________________________
+
+The C Programming course introduces learners to one of the most fundamental and widely used programming languages in computer science. This course covers the essential concepts of structured programming, problem-solving, and efficient coding practices using C. Learners will gain hands-on experience in writing programs, debugging, and applying algorithms to solve real-world problems.
+
+By the end of the course, participants will have a strong foundation in programming concepts and the ability to build applications using C — a language that forms the basis of many modern languages such as C++, Java, and Python.
+
+______________________________________________________________________
+
+Introduction to programming & history of C
+
+Structure of a C program and syntax rules
+
+Data types, variables, and operators
+
+Input/Output operations (printf, scanf)
+
+Control statements (if-else, switch, loops)
+
+Functions and parameter passing
+
+Arrays, strings, and pointers
+
+Structures and unions
+
+File handling in C
+
+Memory management (dynamic allocation, malloc/free)
+
+Basics of algorithms (sorting, searching)
+
+==============================================================
+
+C ++
+10000
+2 months
+______________________________________________________________
+
+The C++ Programming course is designed to provide learners with a solid foundation in object-oriented programming (OOP) and advanced problem-solving techniques. Building on the fundamentals of C, this course introduces learners to the principles of encapsulation, inheritance, polymorphism, and abstraction, while also covering modern C++ features used in real-world software development.
+
+Through hands-on coding exercises and projects, participants will learn to design efficient, reusable, and modular programs. By the end of the course, learners will be able to apply C++ for developing system software, applications, and performance-critical programs.
+
+_______________________________________________________________
+
+Introduction to C++ and its evolution from C
+
+Basic syntax, data types, variables, and operators
+
+Control structures (if-else, loops, switch)
+
+Functions and parameter passing
+
+Arrays, strings, and pointers
+
+Object-Oriented Programming (OOP) concepts:
+
+Classes and objects
+
+Constructors and destructors
+
+Inheritance and polymorphism
+
+Abstraction and encapsulation
+
+Operator overloading and function overloading
+
+Templates (function & class templates)
+
+Exception handling
+
+File handling in C++
+
+Introduction to Standard Template Library (STL)
+
+Basics of algorithms & data structures with C++
+
+=========================================================================
+
+Java Programming
+20000
+5 months
+
+__________________________________________________________________
+
+The Java Programming course provides learners with a strong foundation in one of the most widely used and versatile programming languages in the world. Java is known for its platform independence, object-oriented design, and use in enterprise applications, mobile development, and web technologies.
+
+This course begins with programming fundamentals and gradually moves into advanced concepts, equipping participants with the skills to design, develop, and deploy robust applications. Through hands-on coding and real-world projects, learners will gain confidence in applying Java to solve practical problems.
+_______________________________________________________________________
+
+Introduction to Java and its features
+
+Java Development Kit (JDK), JVM, and IDE setup
+
+Basic syntax, variables, operators, and data types
+
+Control statements (if, switch, loops)
+
+Methods and parameter passing
+
+Arrays, strings, and collections framework
+
+Object-Oriented Programming (OOP) concepts:
+
+Classes and objects
+
+Constructors and overloading
+
+Inheritance, polymorphism, encapsulation, abstraction
+
+Exception handling
+
+File I/O and serialization
+
+Multithreading and concurrency basics
+
+JDBC (Java Database Connectivity)
+
+Introduction to Java frameworks (Spring, Hibernate – overview)

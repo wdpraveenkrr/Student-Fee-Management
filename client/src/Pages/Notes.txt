@@ -1,0 +1,36 @@
+ setStudentimg(null)
+ setStudentname("")
+ setStudentemail("")
+ setStudentpassword("")
+ setStudentdob("")
+ setStudentgender("")
+ setStudenteducation("")
+ setStudentbloodgroup("")
+ setStudentmobileno("")
+ setStudentaddress("")
+
+
+
+ {
+            "_id": "68b06dd7df523d353ba4fa22",
+            "studentId": "20250828T145519355Z",
+            "studentname": "Mathiazhagan C",
+            "studentemail": "mathiazhaganc@gmail.com",
+            "studentpassword": "Mathi@123",
+            "studentdob": "2003-05-15T00:00:00.000Z",
+            "studentgender": "male",
+            "studenteducation": "ug",
+            "studentbloodgroup": "a-positive",
+            "studentmobileno": 9876543210,
+            "studentaddress": "45C, Gandhi Nagar 2nd Cross, Virudhachalam - 623005.",
+            "__v": 0,
+            "studentCourseDetails": [
+                {
+                    "coursename": "C Programming",
+                    "courseduration": 2,
+                    "coursefee": 10000,
+                    "_id": "68b1cdf35592e5e8a734e4e3",
+                    "paidfee": []
+                }
+            ]
+        }
