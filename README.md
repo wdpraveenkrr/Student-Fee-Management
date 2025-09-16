@@ -1,4 +1,4 @@
-Student Fee Management System :-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1345e602-f971-4a66-9c65-cbd4c0d2cdc8" />Student Fee Management System :-
 --------------------------------
 
   A full-stack web application designed to help educational institutions efficiently manage student information, courses, and fee records.The system includes role-based access for Admin and Students, ensuring secure handling of data and smooth fee management.
@@ -32,4 +32,7 @@ Student Panel
 
 Checkout for live demo :-
       frontend = https://prince-institution.onrender.com/
+
+      <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b6e44fe-cdee-4e82-b46e-231314fa00bc" />
+
 
