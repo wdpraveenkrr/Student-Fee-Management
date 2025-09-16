@@ -25,10 +25,11 @@ Student Panel
 * Check fee structure, payment history, and pending dues.
 * Download receipts for payments.
 * Fee Management - Store and update payment records.
+* Calculate balances automatically.
+* Summarized reports for quick insights.
 
+------------------------------------------------------------
 
 Checkout for live demo :-
       frontend = https://prince-institution.onrender.com/
-Calculate balances automatically.
 
-Summarized reports for quick insights.
