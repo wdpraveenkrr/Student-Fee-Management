@@ -58,7 +58,8 @@ const Login = () => {
 
         if (data.success) {
           setIsLoggedin(true)
-          navigate('/')
+          setState(Login)          
+          toast.success(data.message)
         } else {
           toast.error(data.message)
         }
