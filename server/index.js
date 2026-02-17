@@ -26,7 +26,7 @@ app.use(express.urlencoded({ limit: "10mb", extended: true }));
 app.use(cookieParser())
 
 const corsOptions = {
-  origin: /\.onrender\.com$/,
+  origin: 'https://prince-institution-admin.onrender.com',
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
  credentials: true  };
 app.use(cors(corsOptions));
