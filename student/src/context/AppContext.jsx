@@ -8,7 +8,7 @@ export const AppContextProvider = (props) => {
 
     axios.defaults.withCredentials = true
 
-    const backendUrl = 'https://student-fee-management-bblb.onrender.com'
+    const backendUrl = 'https://fee-management-backend-5skp.onrender.com'
 
     const uploadPath = `${backendUrl}/Uploads`;
 
