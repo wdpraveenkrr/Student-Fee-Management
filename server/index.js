@@ -26,7 +26,7 @@ app.use(express.urlencoded({ limit: "10mb", extended: true }));
 app.use(cookieParser())
 
 const corsOptions = {
-  origin:["https://fee-management-backend-5skp.onrender.com"]
+  origin:["https://fee-management-backend-5skp.onrender.com","https://wdpraveenkrr-student-fee-admin.onrender.com"]
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
  credentials: true  };
 app.use(cors(corsOptions));
