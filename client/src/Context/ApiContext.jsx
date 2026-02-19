@@ -6,7 +6,7 @@ export const ApiProvider =(props)=>{
     
 
 
-    const backendUrl = 'https://student-fee-management-bblb.onrender.com'
+    const backendUrl = 'https://fee-management-backend-5skp.onrender.com/'
 
     const value={ backendUrl }
 
