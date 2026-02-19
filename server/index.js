@@ -26,10 +26,7 @@ app.use(express.urlencoded({ limit: "10mb", extended: true }));
 app.use(cookieParser())
 
 const corsOptions = {
-  origin: function (origin, callback) {
-        if (!origin) return callback(null, true);        
-        if (/^https:\/\/wdpraveenkrr-student-fee.onrender.com/.test(origin)) { callback(null, true); } else { callback(new Error("Not allowed by CORS")); }
-    },
+  origin:["https://fee-management-backend-5skp.onrender.com"]
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
  credentials: true  };
 app.use(cors(corsOptions));
